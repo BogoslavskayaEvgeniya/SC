@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dinoboard", "Dinoboard.pyproj", "{DFDAE177-3245-40FD-8932-BC9E0A6EB873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDAE177-3245-40FD-8932-BC9E0A6EB873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDAE177-3245-40FD-8932-BC9E0A6EB873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDAE177-3245-40FD-8932-BC9E0A6EB873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDAE177-3245-40FD-8932-BC9E0A6EB873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F493442-7E68-4148-A8EA-C7356D94BF24}
+	EndGlobalSection
+EndGlobal
